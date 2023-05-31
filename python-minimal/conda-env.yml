@@ -1,0 +1,17 @@
+channels:
+  - conda-forge
+
+dependencies:
+  - boto3
+  - flake8
+  - hvac
+  - ipykernel
+  - ipywidgets
+  - python-kubernetes
+  - nbclient
+  - nbformat
+  - pip
+  - pylint
+  - requests
+  - s3fs
+  - wheel
